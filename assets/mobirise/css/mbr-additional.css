@@ -13,6 +13,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -750,6 +752,7 @@ h6,
 }
 #header3-c H3 {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #msg-box7-9 .mbr-section-title,
 #msg-box7-9 .lead p {
@@ -763,6 +766,9 @@ h6,
   font-family: 'Lora', serif;
 }
 #extFeatures7-7 P {
+  font-family: 'Lato', sans-serif;
+}
+#extFeatures7-7 .mbr-section-title {
   font-family: 'Lato', sans-serif;
 }
 #contacts4-5 P {
